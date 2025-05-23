@@ -1,11 +1,22 @@
+<img align="right" width="225px" style="margin-top:-20px" src="https://github.com/user-attachments/assets/c58754db-ef4b-4831-9484-eca4211d4f2d">
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 # Olá, me chamo Leandro 👋
 
 ## Bem-vindo ao meu perfil do GitHub!
 
 Sou estudante de Engenharia de Sistemas na Universidade Estadual de Montes Claros. Tenho 21 anos e sou um entusiasta de tecnologia e música! 🎶💻
-
+<br>
+<div align= "center">
+<img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAd/csharp-cat-programmer.gif" width="300"/>
+</div>
 ---
-<div>![octocat-1748040648145](https://github.com/user-attachments/assets/c58754db-ef4b-4831-9484-eca4211d4f2d)</div>
+<div></div>
 <div align="center">
   <a href="https://github.com/Leandro-Callado">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Callado&layout=compact&langs_count=7&theme=dracula"/>
