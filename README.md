@@ -5,17 +5,19 @@
 </br>
 </br>
 </br>
+</br>
 
-# Olá, me chamo Leandro 👋
+# Hey Dev! 👋
 
-## Bem-vindo ao meu perfil do GitHub!
+## Welcome to my profile!
 
-Sou estudante de Engenharia de Sistemas na Universidade Estadual de Montes Claros. Tenho 21 anos e sou um entusiasta de tecnologia e música! 🎶💻
+I'm a Systems Engineering student at the State University of Montes Claros. I'm 21 years old and I'm a technology and music enthusiast! 🎶💻
 <br>
 <div align= "center">
 <img src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAd/csharp-cat-programmer.gif" width="300"/>
 </div>
----
+
+
 <div></div>
 <div align="center">
   <a href="https://github.com/Leandro-Callado">
@@ -24,15 +26,8 @@ Sou estudante de Engenharia de Sistemas na Universidade Estadual de Montes Claro
   </a>
 </div>
 
----
 
-### 🐍 Snake Animation
-
-![Snake animation](https://github.com/Leandro-Callado/Leandro-Callado/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📚 Atualmente estou aprendendo:
+## 📚 I'm learning:
 
 <p align="left">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -43,9 +38,8 @@ Sou estudante de Engenharia de Sistemas na Universidade Estadual de Montes Claro
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
----
 
-## 📬 Contatos
+## 📬 Feel free to contact me by:
 
 <div align="left">
   <a href="https://www.instagram.com/lea_callado/" target="_blank">
